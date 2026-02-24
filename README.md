@@ -8,3 +8,4 @@ There is a **bold** word in this sentence
 
 ## Third level heading, you get the picture
 
+This is a new line
