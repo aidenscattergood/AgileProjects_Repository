@@ -1,6 +1,21 @@
-# This is a title for the readme
+# Iteration 1 
 
-this is just random text
+For Iteration 1 we have completed the following deliverables:
+
+- Stakeholder Register 
+- Persona 1
+
+- Persona 2
+
+- Persona 3
+
+- 4 Group Meeting Reports
+
+
+
+
+
+
 
 ## This is a second level heading
 
