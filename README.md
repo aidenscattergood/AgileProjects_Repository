@@ -13,7 +13,7 @@ following deliverables:
 
 - 4 Group Meeting Reports
 
-- Persona Reviews
+- Persona r
 
 ## Persona Reviews
 
