@@ -65,20 +65,25 @@ to git pull and all the other tasks to do with git.
 
 ### Sara
 
-*Week #1*
+**Week #1**<br>
+
 We decided from the first group meeting that we would take turns with writing the meeting minutes and delegating the actions that would need to be taken. We discussed as a group what kind of stakeholders and users would be on our stakeholder register as one person (Aiden) filled in the template we used.
 
-*Week #2*
+**Week #2**<br>
+
 In Week #2 we decided to create a persona each since we needed at least 3. The persona I contributed to, Persona #3; is an older lady who has many hobbies and challenges who could be a good target for our agile project e-commerce website. (Evidence above).
 
-*Week #3*
+**Week #3**<br>
+
 I contributed to writing the meeting minutes for Week #3. Delegated to review our personas and got one person to review another group members persona and uploaded our reviews to GitHub. I reviewed Aiden's persona (Persona #2).
 We discussed and started our individual progress report. Also discussed our README file and what should be added to it.
 
-*Week #4*
+**Week #4**<br>
+
 For week #4 we had the majority of our work done, just uploading final information/documents and making minor changes to documents I worked on in our repository. Added progress report to READme file, checklist minor syntax formatting.
 
-*Feedback*
+**Feedback**<br>
+
 I think we did good as a group, we could delegate what we needed to do and go away and do our part and our contribution was done by the next meeting. One thing I think we could do to improve as we move on to Iteration 2, is use a Kanban board to be more organised as we get more tasks needing to be completed/reviewed. Just relying on the meeting minutes was ok but we could use a better organisational/communication method.
 
 ---
