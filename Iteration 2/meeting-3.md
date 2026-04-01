@@ -3,21 +3,21 @@
 #### Notice of Meeting and Agenda
 <br>
 
-**Date: Tuesday 31 March - Wednesday 1 April, 2026
-Time: 11.00 AM, NZT
+**Date: Tuesday 31 March - Wednesday 1 April, 2026 <br>
+Time: 11.00 AM, NZT <br>
 Location: EIT Taradale Campus, A412**
 
 ---
 
-| |
-|-|
-**Sponsor:** John Jamieson
-**Name of Group:** Cell
-**Group Lead:**	Aiden
-**Note taker:** Sara
-**Attendees:** Aiden, Sara
-**Absent:**	Abby
-**Please bring:** Laptop
+|||
+|-|-|
+|**Sponsor:**|John Jamieson|
+|**Name of Group:**|Cell|
+|**Group Lead:**|Aiden|
+|**Note taker:**|Sara|
+|**Attendees:**|Aiden, Sara|
+|**Absent:**|Abby|
+|**Please bring:**|Laptop|
 
 <br>
 
@@ -29,7 +29,7 @@ Location: EIT Taradale Campus, A412**
 
 #### Minutes
 
-**Agenda Item 1:** Further Planning/Organisation
+**Agenda Item 1:** Further Planning/Organisation <br>
 **Presenter:** Sara
 
 **Discussion:**
@@ -46,7 +46,7 @@ Have a checklist document to check dates and add dates for a rough idea - more o
 
 ---
 
-**Agenda Item 2:** Continuation -  Setting Up Planning Tools
+**Agenda Item 2:** Continuation -  Setting Up Planning Tools <br>
 **Presenter:** Aiden
 
 **Discussion:**
