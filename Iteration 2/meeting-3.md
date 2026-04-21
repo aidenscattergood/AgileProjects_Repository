@@ -50,7 +50,7 @@ Have a checklist document to check dates and add dates for a rough idea - more o
 **Presenter:** Aiden
 
 **Discussion:**
-Set up a Gantt Chart to visually represent allocated time period for the tasks of Iteration 1 and the associated actionable completed sub tasks.
+Set up a Gantt Chart to visually represent allocated time period for the tasks of Iteration 1 and the associated actionable completed sub tasks. Using checklist (above agenda) for dates and milestones.
 
 **Conclusions:**
 Set up and enter Interation 1 actions and timeframes to Gantt Chart. Push Gantt Chart documentation to the shared repository for further implementation of Iteration 2. 
@@ -59,7 +59,7 @@ Set up and enter Interation 1 actions and timeframes to Gantt Chart. Push Gantt 
 |Action Items|Person Responsible|Deadline|
 |-|-|-|
 |Push Gantt Chart to repository|Aiden|Wednesday 1 April|
-|Enter Iteration 1 tasks and timelines to Gantt Chart documentation|Sara|Wednesday 1 April|
+|Enter Iteration 1 tasks and timelines to Gantt Chart documentation|Aiden|Wednesday 1 April|
 
 ---
 
