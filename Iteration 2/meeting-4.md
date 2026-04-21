@@ -48,7 +48,7 @@ Begin resource list and commit to the repository.
 
 ---
 
-**Agenda Item 3:** Continuation -  Schedule & Planning Tools <br>
+**Agenda Item 2:** Continuation -  Schedule & Planning Tools <br>
 **Presenter:** Sara
 
 **Discussion:**
@@ -58,12 +58,13 @@ Kanban Board: Check Kanban notes, if any need to be added or moved according to 
 **Conclusions:**
 Have accurate schedule information for Gantt Chart for Iteration 1 and Iteration 2. Kanban Board up-to-date with project progress.
 
-
 |Action Items|Person Responsible|Deadline|
 |-|-|-|
 |Correct Gantt Chart errors|Sara|Friday, 24 April|
 |Update Kanban Board (if needed)|Sara|Wednesday, 22 April|
 |Add Iteration 2 scheduling planning to Gantt Chart|Sara|Tuesday, 28 April|
+
+---
 
 **Agenda Item 3:** Progress Report & README file <br>
 **Presenter:** Sara
