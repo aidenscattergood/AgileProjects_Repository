@@ -66,7 +66,7 @@
     *task requirements, start date, end date, completed by*
 
     - [x] gantt chart created - 01/04/26
-    - [ ] gantt chart iteration 1 - 01/04/26 - 24/04/26
+    - [x] gantt chart iteration 1 - 01/04/26 - 24/04/26
     - [ ] gantt chart iteration 2 - 22/04/26 - 28/04/26
 <br>
 
