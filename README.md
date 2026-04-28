@@ -87,3 +87,33 @@ For week #4 we had the majority of our work done, just uploading final informati
 I think we did good as a group, we could delegate what we needed to do and go away and do our part and our contribution was done by the next meeting. One thing I think we could do to improve as we move on to Iteration 2, is use a Kanban board to be more organised as we get more tasks needing to be completed/reviewed. Just relying on the meeting minutes was ok but we could use a better organisational/communication method.
 
 ---
+
+# Iteration 2
+
+For Iteration 2 we have completed the following deliverables:
+
+#### Checklist
+
+- [x] Weekly Meeting Reports (4 reports in total)
+> meeting agenda, date, actions, attendees, info about next meeting
+- [x] Detailed Gantt Chart
+> task requirements, start date, end date, completed by
+- [x] Refer to Stakeholder Register, assign tasks in Gantt Chart
+> record info into GitHub boards (kanban)
+- [x] Complete Resource Requirement List
+- [x] As a group, test and review new changes/README.md
+- [x] Individual Progress Reports
+
+Kanban Board: used to organise our project better by self-assigning tasks that need to be completed. Here are our completed notes/issues for Iteration 2:
+![Kanban Board](/images/kanban.png)
+
+Gantt Chart: used to visually represent our project progress by recording task requirements and associated dates and timelines.
+![Gantt Chart](/images/ganttchart.png)
+
+Resource Requirement List: used to plan the resources needed to develop our e-commerce project.
+![Resource List](/images/resourcelist.png)
+
+Detailed Checklist: this is a detailed checklist with all dates and deadlines recorded, in reference to our weekly meeting agendas.
+![Checklist](/images/checklist.png)
+
+---
