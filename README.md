@@ -111,9 +111,7 @@ Gantt Chart: used to visually represent our project progress by recording task r
 ![Gantt Chart](images/ganttchart.png)
 
 Resource Requirement List: used to plan the resources needed to develop our e-commerce project.
-![Resource List](images/resourcelist.png)
+![Resource List](images/Resource_Table.png)
 
 Detailed Checklist: this is a detailed checklist with all dates and deadlines recorded, in reference to our weekly meeting agendas.
 ![Checklist](images/checklist.png)
-
----
