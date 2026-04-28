@@ -52,45 +52,43 @@
 
 >start/end date: 18/03/26 - 29/04/26
 
-- [ ] weekly meeting reports (4 reports min.)
+- [x] weekly meeting reports (4 reports min.)
     *meeting agenda, date, actions, attendees, info about next meeting*
 
     - [x] meeting minutes #1 - 18/03/26
     - [x] meeting minutes #2 - 25/03/26
     - [x] meeting minutes #3 - 01/04/26
     - [x] meeting minutes #4 - 22/04/26
-    - [ ] meeting minutes #5 - 28/04/26 (IF NEEDED)
 <br>
 
-- [ ] detailed Gantt Chart - 01/04/26 (deadline: 28/04/26 - ref: meeting #3 & meeting #4)
+- [x] detailed Gantt Chart - 01/04/26 (deadline: 28/04/26 - ref: meeting #3 & meeting #4)
     *task requirements, start date, end date, completed by*
 
     - [x] gantt chart created - 01/04/26
     - [x] gantt chart iteration 1 - 01/04/26 - 24/04/26
-    - [ ] gantt chart iteration 2 - 22/04/26 - 28/04/26
+    - [x] gantt chart iteration 2 - 22/04/26 - 28/04/26
 <br>
 
-- [ ] refer to stakeholder reg, assign tasks in Gantt Chart
+- [x] refer to stakeholder reg, assign tasks in Gantt Chart
     *record info into GitHub boards*
 
     - [x] created kanban - 25/03/26
       - update kanban - 22/04/26
 <br>
 
-- [ ] complete Resource Requirement List - 22/04/26 (deadline: 28/04/26 - ref: meeting #4)
+- [x] complete Resource Requirement List - 22/04/26 (deadline: 28/04/26 - ref: meeting #4)
     *explain need for resources, resource name, description, cost, task code*
 
     - [x] push resource template to repo - 22/04/26
-    - [ ] review resource document - 28/04/26
 
-- [ ] as group, test and review new changes/README.md - 28/04/26
+- [x] as group, test and review new changes/README.md - 28/04/26
 <br>
 
-- [ ] individual report - 28/04/26 (29/04/26 at latest, if needed)
+- [x] individual report - 28/04/26 (29/04/26 at latest, if needed)
 
-    - [ ] progress report submission - 28/04/26
+    - [x] progress report submission - 28/04/26
 
-- [ ] iteration 2 completed - 29/04/26
+- [x] iteration 2 completed - 29/04/26
 
 ---
 
