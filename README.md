@@ -105,15 +105,15 @@ For Iteration 2 we have completed the following deliverables:
 - [x] Individual Progress Reports
 
 Kanban Board: used to organise our project better by self-assigning tasks that need to be completed. Here are our completed notes/issues for Iteration 2:
-![Kanban Board](/images/kanban.png)
+![Kanban Board](images/kanban.png)
 
 Gantt Chart: used to visually represent our project progress by recording task requirements and associated dates and timelines.
-![Gantt Chart](/images/ganttchart.png)
+![Gantt Chart](images/ganttchart.png)
 
 Resource Requirement List: used to plan the resources needed to develop our e-commerce project.
-![Resource List](/images/resourcelist.png)
+![Resource List](images/resourcelist.png)
 
 Detailed Checklist: this is a detailed checklist with all dates and deadlines recorded, in reference to our weekly meeting agendas.
-![Checklist](/images/checklist.png)
+![Checklist](images/checklist.png)
 
 ---
